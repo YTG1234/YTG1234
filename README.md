@@ -11,4 +11,4 @@
 - C++
 - Objective-C / Swift
 
-You might see me create [Minecraft](https://minecraft.net/) mods and internet projects!
+You might see me create [Minecraft](https://minecraft.net/) [Fabric](https://fabricmc.net/) mods and internet projects!
