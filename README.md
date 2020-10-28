@@ -6,6 +6,7 @@
 
 ### I program in some languages:
 - Java (gud)
+- Kotlin (medium)
 - JavaScript (gud)
 - TypeScript (gud)
 - C++ (bad)
