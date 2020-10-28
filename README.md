@@ -5,10 +5,10 @@
 -->
 
 ### I program in some languages:
-- Java
-- JavaScript
-- TypeScript
-- C++
-- Objective-C / Swift
+- Java (gud)
+- JavaScript (gud)
+- TypeScript (gud)
+- C++ (bad)
+- Objective-C / Swift (medium)
 
 You might see me create [Minecraft](https://minecraft.net/) [Fabric](https://fabricmc.net/) mods and internet projects!
