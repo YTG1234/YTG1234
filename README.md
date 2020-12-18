@@ -13,3 +13,8 @@
 - Objective-C / Swift (medium)
 
 You might see me create [Minecraft](https://minecraft.net/) [Fabric](https://fabricmc.net/) mods and internet projects!
+
+### I also like to read books
+- I like the Harry Potter series
+
+### And I enjoy being entertained by YouTube videos
