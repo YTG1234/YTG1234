@@ -15,7 +15,7 @@
 ## I mod Minecraft
 You might see me create [Minecraft](https://minecraft.net/) [Fabric](https://fabricmc.net/) mods and internet projects!
 - Doesn't like MCP mappings
-- Doesn't like Spigot mappings (haha `net.minecraft.server.V_1_15.item.ItemStack.a` goes brrrrrrr)
+- Doesn't like Spigot mappings (haha `net.minecraft.server.V_1_15` go brrrrrrr)
 - Respects [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) as a project, but doesn't like its [lead](https://github.com/LexManos).
 - Likes [FabricMC](https://fabricmc.net/) more
 
