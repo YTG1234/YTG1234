@@ -6,12 +6,9 @@
 -->
 
 ## I program in some languages:
-- Java (gud)
-- Kotlin (medium)
-- JavaScript (gud)
-- TypeScript (gud)
-- C++ (bad)
-- Objective-C / Swift (bad)
+- Java and Kotlin (gud)
+- TypeScript (forgotten how to do it) (not that much today though)
+- Swift (beginner level)
 
 ## I Mod Minecraft™®©
 You might see me create [FabricMC](https://fabricmc.net/) mods and cursed libraries!
