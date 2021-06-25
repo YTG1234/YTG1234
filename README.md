@@ -5,24 +5,23 @@
 **YTG1234/YTG1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I program in some languages:
-- Java and Kotlin (gud)
-- TypeScript (forgotten how to do it) (not that much today though)
-- Swift (beginner level)
+## I'm fluent in:
+- Java
+- Kotlin
+- Swift
 
-## I Mod Minecraft™®©
-You might see me create [FabricMC](https://fabricmc.net/) mods and cursed libraries!
-- I don't like MCP mappings
-- I don't like Spigot mappings (haha `net.minecraft.server.V_1_15` go brrrrrrr)
+## I can handle:
+- Python
+- Scala
+
+### I can *barely* handle:
+- Rust
+
+## I Mod Minecraft
+You might see me create [QuiltMC](https://quiltmc.org/) mods and cursed libraries!
 - I respect [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) as a project, but don't like its [lead](https://github.com/LexManos).
-- I like [FabricMC](https://fabricmc.net/) more.
-    - Modularity
-    - Separation of Concerns
-    - Gud Devs
-    - Supportive Discord Server
+- I like that particular [FabricMC](https://github.com/FabricMC) [leader](https://github.com/sfPlayer1) even less so.
+- I have my hopes up for [QuiltMC](https://github.com/QuiltMC), which is not even out yet!
 
-## I Also Like to Read Books
-- I enjoy the Harry Potter series
-
-## And I Enjoy being Entertained by YouTube Videos
-- On various subjects
+## And I also have other misc projects
+- Take a look at, for example, [my in-progress horrible package manager](https://github.com/YTG1234/pack)!
