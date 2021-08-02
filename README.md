@@ -25,3 +25,13 @@ You might see me create [QuiltMC](https://quiltmc.org/) mods and cursed librarie
 
 ## And I also have other misc projects
 - Take a look at, for example, [my in-progress horrible package manager](https://github.com/YTG1234/pack)!
+
+------
+
+<details>
+  <summary><sup>Want to give me money for no reason?</sup></summary>
+  
+  First of all, why? Genuinely, I'm not trying to use reverse psychology or anything, but why would you want to do that? Am I really that good a person? I'm probably not. But since you already clicked on the tiny text, you can donate in:
+  
+  - [Monero](https://getmonero.org/)/XMR (Crypto): `89RgMbPjWxWDb1NYihdSnXShYevXE6Qpx2QYzeA2FzUJf94jadAfRLVgkZVt5iP5vxG4sVYpTYBr9Hswv5Fv3o3SDedpNCD`
+</details>
