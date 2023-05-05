@@ -13,3 +13,7 @@
 ## I can handle:
 - Python
 - Scala
+
+# Links
+- [GitLab](https://gitlab.com/YTG1234] (the better platform)
+- <a rel="me" href="https://mstdn.social/@ytg">Mastodon</a>
